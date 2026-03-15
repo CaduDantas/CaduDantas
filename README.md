@@ -28,7 +28,12 @@ Atualmente estou estudando:
 
 ---
 
-## 📫 Contato
+## 🎯 Objetivos
+
+- Aprender cada vez mais sobre programação
+- Melhorar minhas habilidades em Python
+- Desenvolver projetos com HTML e CSS
+- Evoluir como desenvolvedor de software
 
 
 ---
