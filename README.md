@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Cadu
 
-<!--
-**CaduDantas/CaduDantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação  
+💻 Aprendendo programação e desenvolvimento web  
+🚀 Sempre buscando evoluir e aprender coisas novas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou estudante de TI e estou começando minha jornada no mundo da programação.  
+Tenho interesse em desenvolvimento de software, tecnologia e resolver problemas com código.
+
+Atualmente estou estudando:
+
+- Python
+- HTML
+- CSS
+- Lógica de programação
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+
+---
+
+## 📫 Contato
+
+
+---
+
+⭐ Sempre aprendendo e evoluindo como desenvolvedor.
