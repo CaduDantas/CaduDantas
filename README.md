@@ -13,7 +13,6 @@ Tenho interesse em desenvolvimento de software, tecnologia e resolver problemas 
 
 Atualmente estou estudando:
 
-- Python
 - HTML
 - CSS
 - JavaScript
