@@ -16,7 +16,6 @@ Atualmente estou estudando:
 - HTML
 - CSS
 - JavaScript
-- Git/Github
 - Lógica de programação
 
 ---
